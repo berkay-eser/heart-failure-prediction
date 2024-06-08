@@ -12,8 +12,8 @@ The project involves data preprocessing, exploratory data analysis (EDA), model 
 2. [Data Preprocessing](#data-preprocessing)
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 4. [Model Building and Training](#model-building-and-training)
-5. [Usage](#usage)
-6. [Results](#results)
+5. [Results](#results)
+6. [Next Steps](#next-steps)
 7. [Contributing](#contributing)
 8. [License](#license)
 
